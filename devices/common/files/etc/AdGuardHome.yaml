@@ -137,6 +137,8 @@ user_rules:
 - '||xue51.com^$dnstype=AAAA'
 - '||www.xue51.com^$dnstype=AAAA'
 - '||www.xue51.com.wswebpic.com^$dnstype=AAAA'
+- '||music.163.com^$dnstype=AAAA'
+- '||music.126.net^$dnstype=AAAA'
 - ""
 dhcp:
   enabled: false
